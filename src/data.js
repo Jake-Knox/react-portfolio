@@ -29,3 +29,21 @@ export const projects = [
         link: "https://en.wikipedia.org/wiki/File:Claude_Monet,_The_Water-Lily_Pond_(National_Gallery,_London).jpg",
     },
 ];
+
+export const skills = [
+    "JavaScript",
+    "C#",
+    "Kotlin",
+    "Python",
+    "Java",
+    "PHP",
+]
+
+export const testimonials = [
+    {
+        quote: "Quote about massive skills/z",
+        name: "Joe Mama",
+        company: "Da Coding Company",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/970px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    },
+]

@@ -1,5 +1,5 @@
 import { CheckIcon, HandThumbUpIcon, } from "@heroicons/react/24/solid";
-import { skills } from "../skills";
+import { skills } from "../data";
 
 export default function Skills() {
     return (
