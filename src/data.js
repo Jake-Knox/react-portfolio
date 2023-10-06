@@ -46,4 +46,10 @@ export const testimonials = [
         company: "Da Coding Company",
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/970px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
     },
+    {
+        quote: "He do be Coding do",
+        name: "America (the band)",
+        company: "From Music",
+        image: "https://upload.wikimedia.org/wikipedia/en/1/17/America_album.jpg",
+    },
 ]
