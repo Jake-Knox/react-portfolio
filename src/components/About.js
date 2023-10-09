@@ -31,6 +31,7 @@ export default function About() {
                         className="object-cover object-center rounded"
                         alt="hero"
                         src="./JakeKnoxProfileCrop.jpg"
+                        loading="lazy"
                     />
                 </div>
             </div>
