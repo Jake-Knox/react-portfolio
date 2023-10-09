@@ -11,7 +11,7 @@ export default function Footer() {
                     </h1>
                 </div>
                 {/* Make these divs a new link component using data.js */}
-                <div className="mx-auto flex flex-wrap px-5 flex-col md:flex-row items-center">
+                <div className="mx-auto flex px-5 items-center flex-col md:flex-row md:justify-around">
                     <div className="flex flex-wrap m-4 justify-center mx-auto">
                         <a
                             href="https://www.linkedin.com/in/jake-knox/"
@@ -31,12 +31,11 @@ export default function Footer() {
                     </div>
                     <div className="flex flex-wrap m-4 justify-center mx-auto">
                         <a
-                            href="https://www.linkedin.com/in/jake-knox/"
+                            href="https://github.com/Jake-Knox"
                             target="blank"
                             className="inline-flex flex justify-between text-white text-lg text-center px-0 py-0 bg-gray-700 border-4 border-gray-700 rounded-lg mx-4 ">
                             <img
                                 src="./githubIco.png"
-
                                 className="py-1 px-1"
                                 alt="LinkedIn Logo"
                                 loading="lazy"

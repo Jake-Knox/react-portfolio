@@ -31,25 +31,39 @@ export const projects = [
 ];
 
 export const skills = [
+    "HTML",
+    "CSS",
     "JavaScript",
     "C#",
+    "Java",
     "Kotlin",
     "Python",
-    "Java",
     "PHP",
+
+    "Node.js",
+    "React.js",
+
+
+    "SQL",
+    "MongoDB",
+
+    "Agile",
+    "Kanban",
+    "OOP",
+    "Android & iOS",
 ]
 
 export const testimonials = [
     {
-        quote: "Quote about massive skills/z",
-        name: "Joe Mama",
-        company: "Da Coding Company",
+        quote: "Portfolio still under development",
+        name: "John Doe",
+        company: "Employer - XYZ",
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/970px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
     },
     {
-        quote: "He do be Coding do",
-        name: "America (the band)",
-        company: "From Music",
+        quote: "Please excuse any placeholder text",
+        name: "Jane Doe",
+        company: "Friend - ABC",
         image: "https://upload.wikimedia.org/wikipedia/en/1/17/America_album.jpg",
     },
 ]
