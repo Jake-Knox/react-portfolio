@@ -10,12 +10,17 @@ export default function Footer() {
                         href="https://www.linkedin.com/in/jake-knox/"
                         target="blank"
                         className="inline-flex text-white text-lg text-center">
-                        <p>
+                        <img
+                            src="./linkedinIco.png"
+
+                            className="p4"
+                            alt="LinkedIn Logo"
+                            loading="lazy"
+                        />
+                        <p className="p4"
+                        >
                             LinkedIn
                         </p>
-                        <img
-
-                        />
                     </a>
                 </div>
             </div>
