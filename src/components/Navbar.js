@@ -19,6 +19,9 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
+          <a href="https://jake-knox.github.io/portfolio/" target="blank" className="mr-5 hover:text-white">
+            Old Site
+          </a>
         </nav>
         <a
           href="#contact"
