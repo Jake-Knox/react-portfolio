@@ -4,7 +4,7 @@ export const projects = [
         title: "BookEnds",
         subtitle: "Bookshelf Creation and Sharing Webapp",
         description: "Using Node.js, MongoDB and Google Books API, users can . Still under development at the moment. The Name was taked from the Simon & Garfunkel album",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/970px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        image: "./bookends-shelf.jpg",
         link: "https://github.com/Jake-Knox/bookshelf-app-node",
     },
     {
@@ -18,7 +18,7 @@ export const projects = [
         title: "Blade Runner (Phil Resch) ChatBot",
         subtitle: "Machine learning ChatBot",
         description: "Using a Python Flask backend, machine learning model trained with Python and EJS frontend template. Based loosely on a character from the book.",
-        image: "https://www.edwardhopper.net/images/paintings/lighthouse-hill.jpg",
+        image: "./chatbotApp-1.jpg",
         link: "https://github.com/Jake-Knox/flask-chatbot",
     },
     {
