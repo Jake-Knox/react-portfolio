@@ -11,7 +11,7 @@ export const projects = [
         title: "Word Dog Online",
         subtitle: "Online Multiplayer Version of my Word Game.",
         description: "Using Node.js and WebSockets to allow users to join game-rooms and play against eachother.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg",
+        image: "./wdo-1.jpg",
         link: "https://github.com/Jake-Knox/online-word-game",
     },
     {
@@ -25,7 +25,7 @@ export const projects = [
         title: "Word Dog",
         subtitle: "Local Multiplayer Word Game",
         description: "Using vanilla JavaScript, HTML and CSS. Players take turns placing a letter on the game board to spell many words at once.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Claude_Monet%2C_The_Water-Lily_Pond_%28National_Gallery%2C_London%29.jpg",
+        image: "./wd-1.jpg",
         link: "https://github.com/Jake-Knox/word-game",
     },
 ];
