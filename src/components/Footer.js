@@ -16,7 +16,7 @@ export default function Footer() {
                         <a
                             href="https://www.linkedin.com/in/jake-knox/"
                             target="blank"
-                            className="inline-flex flex justify-between text-white text-lg text-center px-0 py-0 bg-gray-700 border-4 border-gray-700 rounded-lg mx-4">
+                            className="inline-flex flex justify-between text-white text-lg text-center px-0 py-0 bg-gray-900 border-4 border-gray-900 rounded-lg mx-4">
                             <img
                                 src="./linkedinIco.png"
 
@@ -33,7 +33,7 @@ export default function Footer() {
                         <a
                             href="https://github.com/Jake-Knox"
                             target="blank"
-                            className="inline-flex flex justify-between text-white text-lg text-center px-0 py-0 bg-gray-700 border-4 border-gray-700 rounded-lg mx-4 ">
+                            className="inline-flex flex justify-between text-white text-lg text-center px-0 py-0 bg-gray-900 border-4 border-gray-900 rounded-lg mx-4 ">
                             <img
                                 src="./githubIco.png"
                                 className="py-1 px-1"
