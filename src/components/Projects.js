@@ -11,10 +11,13 @@ export default function Projects() {
                         Apps I've Built
                     </h1>
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-                        I try to pick projects that allow me to learn a new aspect of a language, library or framework. Over the past year, I've focused on web development - mainly with node.js and react. Most of my projects can be found on my GitHub page.
+                        I try to pick projects that allow me to learn a new aspect of a language, library or framework. Over the past year, I've focused on web development - mainly with node.js and react.
                     </p>
                     <br />
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
+                        Most of my projects can be found on my GitHub page.
+                        <br />
+                        <br />
                         The images of paintings are to be replaced (soon) with actual project data.
                     </p>
                 </div>

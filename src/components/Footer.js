@@ -24,7 +24,7 @@ export default function Footer() {
                                 alt="LinkedIn Logo"
                                 loading="lazy"
                             />
-                            <p className="py-1 px-1 align-middle">
+                            <p className="py-1 px-1 align-middle title-font font-medium text-white">
                                 LinkedIn
                             </p>
                         </a>
@@ -40,7 +40,7 @@ export default function Footer() {
                                 alt="LinkedIn Logo"
                                 loading="lazy"
                             />
-                            <p className="py-1 px-1 align-middle">
+                            <p className="py-1 px-1 align-middle title-font font-medium text-white">
                                 GitHub
                             </p>
                         </a>
