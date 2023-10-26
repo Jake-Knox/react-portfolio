@@ -16,9 +16,6 @@ export default function Projects() {
                     <br />
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
                         Most of my projects can be found on my GitHub page.
-                        <br />
-                        <br />
-                        The images of paintings are to be replaced (soon) with actual project data.
                     </p>
                 </div>
                 <div className='flex flex-wrap m-4'>
